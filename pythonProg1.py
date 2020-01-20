@@ -4,4 +4,5 @@ for num in list:
         print(num, 'число > 4')
     else:    
         print(num)
+list.append(input('введите число'))        
     
